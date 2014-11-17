@@ -1,0 +1,38 @@
+{
+  "name": "sakee",
+  "title": "Sakee Framework",
+  "version": "0.1.0",
+  "description": "An 'entity-indexed component system'-based game framework",
+  "url": "https://github.com/Sakee/sakee-framework/",
+
+  "author": "Luiz Bills <luizpbills@gmail.com>",
+  "copyright-year": "2014",
+
+  "main": "dist/sakee.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sakee/sakee-framework.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sakee/sakee-framework/issues"
+  },
+
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-uglify": "^0.6.0",
+    "load-grunt-tasks": "^1.0.0"
+  },
+
+  "keywords": [
+    "game",
+    "framework",
+    "entity",
+    "component",
+    "system"
+  ],
+
+  "license": "MIT"
+}
