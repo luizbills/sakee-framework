@@ -2,7 +2,7 @@
 
 An 'entity-indexed component system'-based game framework.
 
-| Framework based on: http://entity-systems.wikidot.com/fast-entity-component-system
+> Framework based on: http://entity-systems.wikidot.com/fast-entity-component-system
 
 
 ##LICENSE
